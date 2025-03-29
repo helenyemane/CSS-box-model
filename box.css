@@ -1,0 +1,18 @@
+body{
+    margin:15%;
+    width: 80%;
+}
+
+.outer-box {
+    border: 4px dotted blue;
+    padding: 20px;
+    display: inline-block;
+    width: 70%;
+}
+.inner-box {
+    border: 3px solid pink; 
+    padding: 25px;
+    margin: 10%;
+    font-size: 35px;
+    text-align: center;
+}
